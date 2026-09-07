@@ -1,0 +1,630 @@
+CRITICAL - 2022-12-07 09:35:55 --> Invalid file: template/kinsmen-sky/cssf522.html
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:35:59 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:35:59 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:09 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:10 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:17 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:17 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:19 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:19 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:19 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:21 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:36:22 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:44 --> Invalid file: template/kinsmen-sky/cssf522.html
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:46 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:46 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:50 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:50 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:51 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:53 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:53 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:53 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:53 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:54 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:54 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:37:58 --> Invalid file: template/kinsmen-sky/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:38:32 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:38:32 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:38:34 --> Invalid file: template/kinsmen-sky/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:39:43 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:39:43 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:39:54 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:39:54 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:39:54 --> Invalid file: template/kinsmen-sky/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:06 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:06 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:10 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:10 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:10 --> Invalid file: template/kinsmen-sky/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:27 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:41 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:40:55 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:42:16 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:42:31 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:44:25 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:45:13 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:45:50 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:47:52 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:48:51 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:53:32 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:53:33 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:56:24 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:56:26 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:57:55 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:57:56 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:09 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:09 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:13 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:14 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:35 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:35 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:47 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:58:47 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:59:22 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:59:23 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:59:29 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 09:59:29 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 10:00:10 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 10:00:11 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 10:00:11 --> Invalid file: template/kinsmen-sky/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-07 10:00:11 --> Invalid file: template/kinsmen-sky/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(54): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

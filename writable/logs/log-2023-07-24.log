@@ -1,0 +1,216 @@
+CRITICAL - 2023-07-24 03:13:21 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'p.typekit.net', 'p5e61.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 03:13:21 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'citadel-logo.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 03:13:22 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'pattern-bg-medium.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 04:52:35 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'p.typekit.net', 'p5e61.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 04:52:35 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'citadel-logo.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 04:52:35 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'ico-caret--black.png')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 04:52:36 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'pattern-bg-medium.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 06:44:33 --> Invalid file: template/bank-pro/.env
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/.env')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/.env', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/.env', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('.env')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 08:11:50 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'p.typekit.net', 'p5e61.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 08:11:50 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'citadel-logo.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 08:11:50 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'ico-caret--black.png')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 08:11:50 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'pattern-bg-medium.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 15:49:48 --> Invalid file: template/bank-pro/archivarix.cms.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/archivarix.cms.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/archivarix.cms.php', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/archivarix.cms.php', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('archivarix.cms.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 15:58:55 --> Invalid file: template/bank-pro/sitemap_index.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap_index.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap_index.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap_index.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap_index.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:04:12 --> Invalid file: template/bank-pro/sitemap.xml.gz
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap.xml.gz')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap.xml.gz', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap.xml.gz', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap.xml.gz')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:10:11 --> Invalid file: template/bank-pro/sitemap.xml.gz
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap.xml.gz')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap.xml.gz', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap.xml.gz', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap.xml.gz')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:14:02 --> Invalid file: template/bank-pro/sitemap.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:15:39 --> Invalid file: template/bank-pro/sitemap.txt
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap.txt')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap.txt', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap.txt', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap.txt')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 16:34:09 --> Invalid file: template/bank-pro/atom.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/atom.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/atom.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/atom.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('atom.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 17:16:42 --> Invalid file: template/bank-pro/th1s_1s_a_4o4.html
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/th1s_1s_a_4o4.html')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/th1s_1s_a_4o4.html', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/th1s_1s_a_4o4.html', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('th1s_1s_a_4o4.html')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 17:16:42 --> Invalid file: template/bank-pro/th1s_1s_a_4o4.html
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/th1s_1s_a_4o4.html')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/th1s_1s_a_4o4.html', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/th1s_1s_a_4o4.html', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('th1s_1s_a_4o4.html')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 17:43:50 --> Invalid file: template/bank-pro/sitemap_index.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap_index.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap_index.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap_index.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap_index.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 17:56:30 --> Invalid file: template/bank-pro/sitemaps.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemaps.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemaps.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemaps.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemaps.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-24 18:14:41 --> Invalid file: template/bank-pro/sitemaps.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemaps.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemaps.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemaps.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemaps.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

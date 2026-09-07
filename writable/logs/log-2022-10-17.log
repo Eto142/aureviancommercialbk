@@ -1,0 +1,1037 @@
+CRITICAL - 2022-10-17 11:47:20 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:47:28 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:47:29 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:47:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:47:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:47:47 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:47:48 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:10 --> Invalid file: template/bureau/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:11 --> Invalid file: template/bureau/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:14 --> Undefined array key "tx_date"
+in APPPATH/Views/template/bureau/home.php on line 514.
+ 1 APPPATH/Views/template/bureau/home.php(514): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/template/bureau/home.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Home.php(49): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Home->index()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:29 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:29 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:48 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:48 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:52 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:48:59 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:00 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:05 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:06 --> Invalid file: template/particles-dark/__service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:09 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:09 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:11 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:11 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:13 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:13 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:17 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:17 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:31 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:31 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:32 --> Invalid file: template/particles-dark/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:36 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:36 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:36 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:43 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:43 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:47 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:47 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:47 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:48 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:48 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:49:49 --> Invalid file: template/particles-dark/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:03 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:03 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:08 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:08 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:08 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:12 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:12 --> Invalid file: template/particles-dark/__service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:14 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:14 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:15 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:15 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:50:18 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:42 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:42 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:43 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:43 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:43 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:44 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:53 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:53 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:53 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 11:51:54 --> Invalid file: template/particles-dark/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 12:02:51 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 12:02:54 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 12:02:55 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 12:03:14 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 12:03:18 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:11 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:11 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:17 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:17 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:21 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:21 --> Invalid file: template/particles-dark/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:08:27 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:10:58 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:12:45 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:12:45 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:12:45 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:12:46 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:12:47 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:13:50 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:13:51 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:15:58 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:21:06 --> Invalid file: template/capex/corner-stripes-bottom.jpg
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/5ace3b1131f6d3661826999e_cubiertos.jpg
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:22:29 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:23:45 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:23:45 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:23:46 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:23:47 --> Invalid file: template/capex/corner-stripes-bottom.jpg
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:24:44 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:24:46 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:24:46 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:24:46 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:24:46 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 18:24:46 --> Invalid file: template/capex/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:26 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:28 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:28 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:32 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:32 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:36 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:37 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:45 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:22:46 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:34:07 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 19:34:07 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-17 21:51:48 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(50): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

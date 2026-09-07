@@ -1,0 +1,324 @@
+CRITICAL - 2023-03-21 06:03:14 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:03:14 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:03:14 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:03:15 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/xmlrpc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/blog.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/web.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/wordpress.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/website.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/wp.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/2018.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/2019.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:29 --> Invalid file: template/bank-pro/shop.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/wp1.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/media.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/wp2.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/site.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/cms.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 06:46:30 --> Invalid file: template/bank-pro/sito.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:48:44 --> Invalid file: template/bank-pro/sitemap.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:48:53 --> Invalid file: template/bank-pro/ads.txt
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:49:25 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:49:25 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:49:25 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:49:25 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:50:18 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:53:54 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:53:54 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 13:53:54 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:16:37 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:16:41 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 14:16:44 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 20:33:02 --> Invalid file: template/bank-pro/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 22:25:54 --> Invalid file: template/bank-pro/.git
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(40): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,1394 @@
+CRITICAL - 2022-10-02 05:34:23 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:34:23 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:34:23 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:34:31 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'img', 'in-section-profit-8.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:36:02 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:36:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:36:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:36:03 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'img', 'in-section-profit-8.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:41:28 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:41:28 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:41:28 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:41:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'img', 'in-section-profit-8.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:20 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:20 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:20 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:41 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'img', 'in-section-profit-8.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:58 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 05:50:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'img', 'in-section-profit-8.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:31 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:31 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:31 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:14:40 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+in APPPATH\Controllers\Auth.php on line 444.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. ', 'APPPATH\\Controllers\\Auth.php', 444, [...])
+ 2 APPPATH\Controllers\Auth.php(444): file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=6LfVOFIcAAAAAAldKtifKUgslm0hSLSCPyPiQ5Su&response=')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Auth->register()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:15:54 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+in APPPATH\Controllers\Auth.php on line 444.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. ', 'APPPATH\\Controllers\\Auth.php', 444, [...])
+ 2 APPPATH\Controllers\Auth.php(444): file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=6LfVOFIcAAAAAAldKtifKUgslm0hSLSCPyPiQ5Su&response=')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Auth->register()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:19:51 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+in APPPATH\Controllers\Auth.php on line 446.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. ', 'APPPATH\\Controllers\\Auth.php', 446, [...])
+ 2 APPPATH\Controllers\Auth.php(446): file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=6LfVOFIcAAAAAAldKtifKUgslm0hSLSCPyPiQ5Su&response=')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Auth->register()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:24:34 --> file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. 
+in APPPATH\Controllers\Auth.php on line 481.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): php_network_getaddresses: getaddrinfo failed: No such host is known. ', 'APPPATH\\Controllers\\Auth.php', 481, [...])
+ 2 APPPATH\Controllers\Auth.php(481): file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=6LfVOFIcAAAAAAldKtifKUgslm0hSLSCPyPiQ5Su&response=99999999')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Auth->register()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:41:04 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:41:04 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:41:04 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:41:16 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:41:16 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:41:16 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:27 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:28 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:28 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:39 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:39 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:39 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:49 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:50 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:44:50 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-02 06:45:12 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2022-10-02 06:45:12 --> 
+ERROR - 2022-10-02 06:45:23 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2022-10-02 06:45:23 --> Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+CRITICAL - 2022-10-02 06:45:24 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:45:24 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:45:24 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:02 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-02 06:46:46 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2022-10-02 06:46:46 --> 
+CRITICAL - 2022-10-02 06:46:50 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'js', 'clipboard.min.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:50 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'javascript', 'countries.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:52 --> Invalid file: pages/userdashstyle.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/userdashstyle.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/userdashstyle', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/userdashstyle', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('userdashstyle', 'FCPATH\\assets', 'img', 'pro.png')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:52 --> Invalid file: pages/{{ asset('profileimg.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/{{ asset(\'profileimg.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/{{ asset(\'profileimg', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/{{ asset(\'profileimg', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('{{ asset(\'profileimg', '\'.$loggedUserData->profileimg) }}')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:52 --> Invalid file: pages/img.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/img', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/img', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('img', 'logo.png')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:46:52 --> Invalid file: pages/userdashstyle.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/userdashstyle.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/userdashstyle', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/userdashstyle', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('userdashstyle', 'FCPATH\\assets', 'img', 'jm_denis.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:06 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'js', 'core', 'bootstrap.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:06 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:41 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'javascript', 'countries.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:41 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'js', 'clipboard.min.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:41 --> Invalid file: pages/img.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/img.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/img', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/img', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('img', 'logo.png')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:41 --> Invalid file: pages/userdashstyle.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/userdashstyle.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/userdashstyle', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/userdashstyle', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('userdashstyle', 'FCPATH\\assets', 'img', 'jm_denis.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:41 --> Invalid file: pages/userdashstyle.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/userdashstyle.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/userdashstyle', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/userdashstyle', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('userdashstyle', 'FCPATH\\assets', 'img', 'pro.png')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:47:41 --> Invalid file: pages/{{ asset('profileimg.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/{{ asset(\'profileimg.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/{{ asset(\'profileimg', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/{{ asset(\'profileimg', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('{{ asset(\'profileimg', '\'.$loggedUserData->profileimg) }}')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:57 --> Invalid file: pages/__service-worker.js
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/__service-worker.js')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/__service-worker.js', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/__service-worker.js', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:57 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:57 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 06:49:58 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:46:55 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:46:56 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:46:56 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:47:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:47:08 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:47:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:47:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'FCPATH\\assets', 'js', 'bootstrap.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:47:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'FCPATH\\assets', 'js', 'popper.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:47:09 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'FCPATH\\assets', 'css', 'style.css.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:37:44 --> Invalid file: pages/cssf522.html
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/cssf522.html')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/cssf522.html', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/cssf522.html', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('cssf522.html')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:37:44 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'bootstrap.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:37:44 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'front', 'jquery.mCustomScrollbar.minb73c.css')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:37:48 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:37:48 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:37:48 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-02 20:38:01 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2022-10-02 20:38:01 --> 
+CRITICAL - 2022-10-02 20:38:01 --> Undefined variable: custom
+in APPPATH\Views\user\header.php on line 214.
+ 1 APPPATH\Views\user\header.php(214): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: custom', 'APPPATH\\Views\\user\\header.php', 214, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\user\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('user/header', [], true)
+ 5 APPPATH\Controllers\User.php(754): view('user/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->index()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:24 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:24 --> Invalid file: pages/__service-worker.js
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/__service-worker.js')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/__service-worker.js', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/__service-worker.js', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.woff2')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.woff')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:42:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.ttf')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 20:56:18 --> Use of undefined constant VIEWPATH - assumed 'VIEWPATH' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\User.php on line 2864.
+ 1 APPPATH\Controllers\User.php(2864): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant VIEWPATH - assumed \'VIEWPATH\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\User.php', 2864, [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->test()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:15:37 --> Use of undefined constant VIEW - assumed 'VIEW' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\User.php on line 2864.
+ 1 APPPATH\Controllers\User.php(2864): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant VIEW - assumed \'VIEW\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\User.php', 2864, [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->test()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:15:52 --> Use of undefined constant VIEWSPATH - assumed 'VIEWSPATH' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\User.php on line 2864.
+ 1 APPPATH\Controllers\User.php(2864): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant VIEWSPATH - assumed \'VIEWSPATH\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\User.php', 2864, [])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->test()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:36:38 --> Invalid file: pages/install.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/install.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/install', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/install', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\install', 'install-sample_wic9aj57x1.php')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:36:51 --> Invalid file: pages/install.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/install.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/install', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/install', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\install', 'install-sample_wimatj57xe.php')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:36:57 --> Invalid file: pages/install.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/install.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/install', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/install', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\install', 'step3_wir5qj57xl.php')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:37:23 --> Invalid file: pages/install.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/install.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/install', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/install', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\install', 'install-sample_wjbewj57yb.php')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 21:37:28 --> Invalid file: pages/install.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/install.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/install', [], true)
+ 3 APPPATH\Controllers\Pages.php(28): view('pages/install', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\install', 'step3_wjfiwj57yg.php')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:05:50 --> Undefined variable: site
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 APPPATH\Controllers\BaseController.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: site', 'APPPATH\\Controllers\\BaseController.php', 66, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(870): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 3 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:06:13 --> Undefined variable: active_theme
+in APPPATH\Controllers\User.php on line 755.
+ 1 APPPATH\Controllers\User.php(755): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: active_theme', 'APPPATH\\Controllers\\User.php', 755, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->index()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:07:00 --> Invalid file: theme/'.finapp-light.'/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/\'.finapp-light.\'/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/\'.finapp-light.\'/header', [], true)
+ 3 APPPATH\Controllers\User.php(755): view('theme/\'.finapp-light.\'/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:11:56 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\auth\header.php(80): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\auth\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('auth/header', [], true)
+ 7 APPPATH\Controllers\Auth.php(192): view('auth/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Auth->login()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:13:28 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:13:28 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:13:28 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:13:34 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:13:34 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:13:35 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:16:02 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:16:03 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:16:03 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:21:33 --> Invalid file: theme/finapp-light/assets/css/others.css
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/finapp-light/assets/css/others.css')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/assets/css/others.css', [], true)
+ 3 APPPATH\Views\theme\finapp-light\header.php(48): view('theme/finapp-light/assets/css/others.css')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/header', [], true)
+ 7 APPPATH\Controllers\User.php(755): view('theme/finapp-light/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->index()
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:31:25 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:31:25 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:31:25 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'js', 'countries.js')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:42:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-brands-400.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:51:15 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:51:15 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:51:15 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:52:03 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:52:03 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:52:03 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:53:08 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff2')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:53:08 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.woff')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 22:53:09 --> Invalid file: translator.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('translator.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('translator', [], true)
+ 3 APPPATH\Views\pages\header.php(259): view('translator')
+ 4 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\header.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 7 APPPATH\Controllers\Pages.php(27): view('pages/header', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'back', 'webfonts', 'fa-solid-900.ttf')
+ 9 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+10 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()

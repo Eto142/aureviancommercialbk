@@ -1,0 +1,2560 @@
+CRITICAL - 2022-09-27 01:12:22 --> Invalid file: pages/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:24 --> Invalid file: pages/xmlrpc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:26 --> Invalid file: pages/blog.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:26 --> Invalid file: pages/web.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:27 --> Invalid file: pages/wordpress.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:27 --> Invalid file: pages/website.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:28 --> Invalid file: pages/wp.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:28 --> Invalid file: pages/news.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:29 --> Invalid file: pages/2018.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:29 --> Invalid file: pages/2019.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:30 --> Invalid file: pages/shop.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:30 --> Invalid file: pages/wp1.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:30 --> Invalid file: pages/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:31 --> Invalid file: pages/media.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:31 --> Invalid file: pages/wp2.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:31 --> Invalid file: pages/site.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:32 --> Invalid file: pages/cms.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:12:32 --> Invalid file: pages/sito.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 01:47:56 --> Invalid file: pages/.git
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 02:59:03 --> Invalid file: pages/sitemap_index.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:14 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:14 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:15 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:17 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:17 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:21 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:52:21 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:53:12 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:53:12 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 04:54:03 --> Invalid file: pages/.git
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:11:07 --> Undefined variable $set
+in APPPATH/Views/admin/accounts.php on line 16.
+ 1 APPPATH/Views/admin/accounts.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/accounts.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1006): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->wallets()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:11:40 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:11:40 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:15:09 --> Undefined array key "barcode"
+in APPPATH/Views/admin/wallets.php on line 51.
+ 1 APPPATH/Views/admin/wallets.php(51): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/wallets.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1006): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->wallets()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:22:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:22:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:42:10 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:42:10 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:42:45 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:42:45 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:43:21 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:43:21 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:43:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:43:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:44:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:44:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:44:43 --> Undefined array key "company_email"
+in APPPATH/Controllers/Admin.php on line 1023.
+ 1 APPPATH/Controllers/Admin.php(1023): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->wallets()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:46:49 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:46:49 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:47:12 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:47:12 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:48:00 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:48:00 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:49:50 --> Invalid file: pages/wp-admin.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:34 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:34 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:41 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:41 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:56 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 05:51:56 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:00:15 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:00:15 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:00:17 --> Call to a member function set() on string
+in APPPATH/Controllers/Admin.php on line 1057.
+ 1 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->wallets()
+ 2 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:01:52 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:01:52 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:02:46 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:02:46 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:03:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:03:08 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:03:13 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:03:13 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:05:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:05:29 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:05:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:05:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:06:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:06:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:03 --> Undefined variable $row
+in APPPATH/Controllers/Admin.php on line 971.
+ 1 APPPATH/Controllers/Admin.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->wallets()
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:23 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:23 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:30 --> Undefined variable $username
+in APPPATH/Views/admin/accounts.php on line 28.
+ 1 APPPATH/Views/admin/accounts.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/accounts.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1088): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->wallets()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:38 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:38 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:51 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:51 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:15:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:16:52 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:16:52 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:16:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:16:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:17:39 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:17:39 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:19:17 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:19:17 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:19:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:19:22 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:19:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:19:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:26:05 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:26:05 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:26:07 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:26:07 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:29:07 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 06:29:07 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:48:16 --> Invalid file: pages/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:48:20 --> Invalid file: pages/from-waste-to-wealth-engineering-perspective.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:50:15 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:50:16 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 08:54:09 --> Invalid file: pages/.git
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:14 --> Invalid file: pages/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:15 --> Invalid file: pages/xmlrpc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:16 --> Invalid file: pages/blog.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:16 --> Invalid file: pages/web.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:17 --> Invalid file: pages/wordpress.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:17 --> Invalid file: pages/website.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:18 --> Invalid file: pages/wp.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:18 --> Invalid file: pages/news.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:19 --> Invalid file: pages/2018.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:19 --> Invalid file: pages/2019.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:19 --> Invalid file: pages/shop.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:20 --> Invalid file: pages/wp1.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:20 --> Invalid file: pages/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:20 --> Invalid file: pages/media.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:21 --> Invalid file: pages/wp2.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:21 --> Invalid file: pages/site.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:21 --> Invalid file: pages/cms.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 09:59:21 --> Invalid file: pages/sito.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:18:19 --> Invalid file: pages/from-waste-to-wealth-engineering-perspective.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:19:51 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 10:19:52 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 11:08:17 --> Invalid file: pages/wp-admin.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 11:48:20 --> Invalid file: pages/what-ex-twitter-boss-jack-dorsey-said-about-web3.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:35 --> Invalid file: pages/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:36 --> Invalid file: pages/xmlrpc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:37 --> Invalid file: pages/blog.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:37 --> Invalid file: pages/web.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:38 --> Invalid file: pages/wordpress.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:38 --> Invalid file: pages/website.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:39 --> Invalid file: pages/wp.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:39 --> Invalid file: pages/news.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:40 --> Invalid file: pages/2018.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:40 --> Invalid file: pages/2019.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:40 --> Invalid file: pages/shop.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:41 --> Invalid file: pages/wp1.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:41 --> Invalid file: pages/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:41 --> Invalid file: pages/media.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:41 --> Invalid file: pages/wp2.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:42 --> Invalid file: pages/site.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:42 --> Invalid file: pages/cms.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 13:03:42 --> Invalid file: pages/sito.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 15:54:52 --> Invalid file: pages/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:56 --> Invalid file: pages/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:56 --> Invalid file: pages/xmlrpc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:57 --> Invalid file: pages/blog.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:57 --> Invalid file: pages/web.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:57 --> Invalid file: pages/wordpress.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:58 --> Invalid file: pages/website.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:58 --> Invalid file: pages/wp.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:58 --> Invalid file: pages/news.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:58 --> Invalid file: pages/2018.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:58 --> Invalid file: pages/2019.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:58 --> Invalid file: pages/shop.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:59 --> Invalid file: pages/wp1.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:59 --> Invalid file: pages/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:59 --> Invalid file: pages/media.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:59 --> Invalid file: pages/wp2.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:59 --> Invalid file: pages/site.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:16:59 --> Invalid file: pages/cms.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 16:17:00 --> Invalid file: pages/sito.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 17:25:07 --> Invalid file: pages/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 17:52:42 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 17:52:42 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 17:52:43 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:41:51 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH/Controllers/Admin.php on line 1267.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 SYSTEMPATH/CodeIgniter.php(857): class_exists()
+ 5 SYSTEMPATH/CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:42:20 --> Undefined variable $set
+in APPPATH/Views/admin/wallets.php on line 16.
+ 1 APPPATH/Views/admin/wallets.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/wallets.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1205): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->packages()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:42:40 --> Undefined variable $count_promo
+in APPPATH/Views/admin/packages.php on line 20.
+ 1 APPPATH/Views/admin/packages.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/packages.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1205): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->packages()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:43:19 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:43:19 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:47:06 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 18:47:06 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:27:37 --> Invalid file: pages/.git
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:27:38 --> Undefined variable $kinsmen
+in APPPATH/Views/admin/packages.php on line 90.
+ 1 APPPATH/Views/admin/packages.php(90): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/packages.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1205): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->packages()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:29:59 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:29:59 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:31:17 --> Invalid file: pages/wp-admin.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:03 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:03 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:07 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:07 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:30 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:32:30 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:41:16 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:41:16 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:41:18 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:41:18 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:41:37 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:41:37 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:42:09 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:42:09 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:44:15 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:44:15 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:48:11 --> Invalid file: pages/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:56:30 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 19:56:30 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:00:50 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:00:50 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:04:24 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:04:25 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:05:04 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:05:04 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:09:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:09:54 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:14 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:14 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:28 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:28 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:33 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:33 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:42 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:12:42 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:13:40 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:13:40 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:13:44 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:13:44 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:14:33 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:14:33 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:28:24 --> Cannot redeclare App\Controllers\Admin::packages()
+in APPPATH/Controllers/Admin.php on line 1305.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-27 20:30:14 --> Invalid file: pages/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:31:19 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:31:19 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:33:18 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:33:18 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:37:15 --> Undefined variable $set
+in APPPATH/Views/admin/wallets.php on line 16.
+ 1 APPPATH/Views/admin/wallets.php(16): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/wallets.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1336): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->tickets()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:37:33 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:37:33 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:40:59 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:40:59 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:45:47 --> Invalid file: pages/ads.txt
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:45:57 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:45:57 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:45:58 --> Undefined variable $count
+in APPPATH/Views/admin/tickets.php on line 20.
+ 1 APPPATH/Views/admin/tickets.php(20): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/tickets.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Admin.php(1331): view()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->tickets()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:46:03 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:46:03 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:47:18 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:47:18 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:47:18 --> Cannot access offset of type string on string
+in APPPATH/Views/admin/tickets.php on line 19.
+ 1 SYSTEMPATH/View/View.php(213): include()
+ 2 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Admin.php(1331): view()
+ 5 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Admin->tickets()
+ 6 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:48:38 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:48:38 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:48:45 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:48:45 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:49:30 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:49:30 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:49:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 20:49:32 --> Invalid file: pages/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:33:46 --> Invalid file: pages/collections.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:33:52 --> Invalid file: pages/feed.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:48 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:50 --> Invalid file: pages/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:51 --> Invalid file: pages/wp-static.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:52 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:52 --> Invalid file: pages/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:53 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:53 --> Invalid file: pages/years.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:54 --> Invalid file: pages/css.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:54 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:56 --> Invalid file: pages/css.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:56 --> Invalid file: pages/contents.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:57 --> Invalid file: pages/css.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:57 --> Invalid file: pages/votes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:58 --> Invalid file: pages/2index.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:58 --> Invalid file: pages/1index.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:58 --> Invalid file: pages/load.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:55:59 --> Invalid file: pages/admin.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:56:00 --> Invalid file: pages/wikindex.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:56:00 --> Invalid file: pages/xmlrpc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:56:01 --> Invalid file: pages/css.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:56:02 --> Invalid file: pages/radio.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 21:56:02 --> Invalid file: pages/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-27 23:56:20 --> Invalid file: pages/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Pages.php(28): view()
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view()
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

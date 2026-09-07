@@ -1,0 +1,802 @@
+CRITICAL - 2023-07-18 00:10:00 --> Invalid file: template/bank-pro/sitemap.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 00:55:19 --> Invalid file: template/bank-pro/sitemap_index.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemap_index.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemap_index.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemap_index.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemap_index.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 01:05:00 --> Invalid file: template/bank-pro/sitemaps.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemaps.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemaps.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemaps.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemaps.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 01:20:11 --> Invalid file: template/bank-pro/sitemaps.xml
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/sitemaps.xml')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/sitemaps.xml', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/sitemaps.xml', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('sitemaps.xml')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-07-18 02:12:11 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /home2/bastionb/system/Database/MySQLi/Connection.php(171): mysqli->real_connect('localhost', 'bastionb_db', 'Ww7I2DwJurrF', 'bastionb_db', 3306, '', 0)
+#1 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#7 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#9 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home2/bastionb/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /home2/bastionb/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home2/bastionb/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /home2/bastionb/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /home2/bastionb/system/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+#4 /home2/bastionb/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#5 /home2/bastionb/app/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+#6 /home2/bastionb/system/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home2/bastionb/system/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+#8 /home2/bastionb/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home2/bastionb/public_html/index.php(71): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ci_settings`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 3 SYSTEMPATH/Model.php(250): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(622): CodeIgniter\Model->doFirst()
+ 5 APPPATH/Controllers/License.php(8) : eval()'d code(1) : eval()'d code(10) : eval()'d code(2): CodeIgniter\BaseModel->first()
+ 6 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\License->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 7 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:16 --> Invalid file: template/bank-pro/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/test.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/test', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/test', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('test')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:17 --> Invalid file: template/bank-pro/wordpress.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wordpress.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wordpress', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wordpress', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wordpress')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:17 --> Invalid file: template/bank-pro/test.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/test.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/test', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/test', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('test')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:18 --> Invalid file: template/bank-pro/main.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/main.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/main', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/main', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('main')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:12:18 --> Invalid file: template/bank-pro/testing.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/testing.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/testing', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/testing', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('testing')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:56:34 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'p.typekit.net', 'p5e61.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:56:35 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'citadel-logo.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 02:56:36 --> Invalid file: template/bank-pro/templates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/templates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/templates', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/templates', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/templates', 'bank-pro', 'css', 'images', 'FCPATH/assets', 'pattern-bg-medium.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 13:30:36 --> Invalid file: template/bank-pro/view-source:.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/view-source:.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/view-source:', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/view-source:', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('view-source:')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 13:30:38 --> Invalid file: template/bank-pro/misc.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/misc.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/misc', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/misc', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('misc', 'ajax.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 14:16:10 --> Invalid file: template/bank-pro/wp-login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-login.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-login.php', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-login.php', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-login.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:18 --> Invalid file: template/bank-pro/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-content.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-content', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-content', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-content', 'dropdown.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:18 --> Invalid file: template/bank-pro/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-includes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-includes', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-includes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-includes', 'random_compat', 'about.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:19 --> Invalid file: template/bank-pro/wp-load.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-load.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-load.php', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-load.php', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-load.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:19 --> Invalid file: template/bank-pro/wp-admin.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-admin.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-admin', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-admin', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-admin', 'js', 'about.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:20 --> Invalid file: template/bank-pro/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-includes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-includes', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-includes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-includes', 'js', 'tinymce', 'plugins', 'compat3x', 'css', 'FCPATH/index.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:20 --> Invalid file: template/bank-pro/updates.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/updates.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/updates.php', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/updates.php', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('updates.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:20 --> Invalid file: template/bank-pro/cache.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/cache.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/cache', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/cache', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('cache', 'indexx.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:21 --> Invalid file: template/bank-pro/wp-content.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-content.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-content', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-content', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-content', 'FCPATH/themes', 'twentyseventeen', 'page', 'FCPATH/index.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:21 --> Invalid file: template/bank-pro/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-includes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-includes', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-includes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-includes', 'js', 'tinymce', 'skins', 'lightgray', 'img', 'FCPATH/index.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 16:25:22 --> Invalid file: template/bank-pro/wp-includes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/wp-includes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/wp-includes', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/wp-includes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('wp-includes', 'blocks', 'table', 'int', 'tmpl', 'FCPATH/index.php')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 17:16:37 --> Invalid file: template/bank-pro/th1s_1s_a_4o4.html
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/th1s_1s_a_4o4.html')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/th1s_1s_a_4o4.html', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/th1s_1s_a_4o4.html', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('th1s_1s_a_4o4.html')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-18 17:16:37 --> Invalid file: template/bank-pro/th1s_1s_a_4o4.html
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/bank-pro/th1s_1s_a_4o4.html')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/bank-pro/th1s_1s_a_4o4.html', [], true)
+ 3 APPPATH/Controllers/Pages.php(40): view('template/bank-pro/th1s_1s_a_4o4.html', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('th1s_1s_a_4o4.html')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

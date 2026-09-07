@@ -1,0 +1,397 @@
+CRITICAL - 2023-02-04 00:22:49 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:22:56 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:22:56 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:23:14 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:23:15 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:04 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:04 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:14 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:21 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:22 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:23 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:27 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:28 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:28 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:38 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:39 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:39 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 00:25:44 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:51:03 --> file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed
+in APPPATH/Controllers/BaseController.php on line 81.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed', 'APPPATH/Controllers/BaseController.php', 81, [...])
+ 2 APPPATH/Controllers/BaseController.php(81): file_get_contents('http://thekinsmen.net/license/protonhosting.top')
+ 3 SYSTEMPATH/CodeIgniter.php(870): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 4 SYSTEMPATH/CodeIgniter.php(448): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:52:52 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:52:58 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:52:58 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:52:58 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:04 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:08 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:35 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'popper.js', 'umd', 'popper.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:36 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'summernote', 'summernote-bs4.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:36 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'stacked-menu', 'js', 'stacked-menu.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:36 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'perfect-scrollbar', 'perfect-scrollbar.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:36 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'bootstrap', 'js', 'bootstrap.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 10:53:36 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:25:18 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:25:19 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:25:19 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:43:41 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'stacked-menu', 'js', 'stacked-menu.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:43:42 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'summernote', 'summernote-bs4.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:43:42 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'perfect-scrollbar', 'perfect-scrollbar.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:43:42 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:43:42 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'bootstrap', 'js', 'bootstrap.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:43:42 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'popper.js', 'umd', 'popper.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:55:39 --> Invalid file: template/capex/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:55:53 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:55:53 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-04 11:55:54 --> Invalid file: template/capex/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/capex/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/capex/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/capex/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

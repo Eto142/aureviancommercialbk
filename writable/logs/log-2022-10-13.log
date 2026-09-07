@@ -1,0 +1,1259 @@
+CRITICAL - 2022-10-13 08:43:50 --> Invalid file: template/vaz/app.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/app.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/app', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/app', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('app', 'Views', 'template', 'bureau', 'home_yv8yijolh2.php')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 20:44:05 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 20:44:08 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 21:47:50 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:47:50 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:47:50 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:49:43 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:49:43 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 21:52:59 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:52:59 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:52:59 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:55:03 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:55:03 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:55:43 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:55:43 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:06 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:06 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:13 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(184): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:13 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 1
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 1
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 1
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(184): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:16 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:16 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:24 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:24 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:29 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(206): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:29 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `transaction_type` IN (\'Bonus\',\'Profit\',\'Transfer\')
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `transaction_type` IN (\'Bonus\',\'Profit\',\'Transfer\')
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `transaction_type` IN (\'Bonus\',\'Profit\',\'Transfer\')
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `transaction_type` IN :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(206): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:31 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:31 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:56:58 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:56:58 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:58:51 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:58:51 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 21:59:08 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 21:59:08 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:01:39 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:01:40 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:01:40 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:01:44 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:01:44 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:01:44 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:02:46 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:02:46 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:02:46 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'popper.js', 'umd', 'popper.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'bootstrap', 'js', 'bootstrap.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'javascript', 'jspdf.umd.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'summernote', 'summernote-bs4.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'stacked-menu', 'js', 'stacked-menu.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:03:36 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'perfect-scrollbar', 'perfect-scrollbar.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'javascript', 'jspdf.umd.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'bootstrap', 'js', 'bootstrap.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'popper.js', 'umd', 'popper.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'summernote', 'summernote-bs4.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'stacked-menu', 'js', 'stacked-menu.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:04:51 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'vendor', 'perfect-scrollbar', 'perfect-scrollbar.min.js.map')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:04:51 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:04:51 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:08:05 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:08:05 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:08:05 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:08:31 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:08:31 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:08:31 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Deposit\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(116): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-13 22:08:34 --> Invalid file: template/vaz/assets.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/vaz/assets.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('template/vaz/assets', [], true)
+ 3 APPPATH\Controllers\Pages.php(50): view('template/vaz/assets', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-10-13 22:08:35 --> mysqli_sql_exception: Unknown column 'tx_date' in 'field list' in C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:292
+Stack trace:
+#0 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, ...', 0)
+#1 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, ...')
+#2 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, ...')
+#3 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, ...', Array, false)
+#4 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+#6 C:\wamp64\www\kignite\app\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+#7 C:\wamp64\www\kignite\app\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+#8 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Tables->index()
+#9 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+#10 C:\wamp64\www\kignite\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\kignite\public\index.php(71): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-10-13 22:08:35 --> Unknown column 'tx_date' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(620): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = 0
+AND `transaction_type` = \'Withdrawal\'
+ORDER BY `id` DESC
+ LIMIT 10')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT `name`, `email`, `tx_date`, `wallet`, `coin_type`, `amount`, `reference`, `id`
+FROM `kis_transactions`
+WHERE `status` = :status:
+AND `transaction_type` = :transaction_type:
+ORDER BY `id` DESC
+ LIMIT 10', [...], false)
+ 5 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(219): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTableQuery.php(70): Hermawan\DataTables\DataTableQuery->queryResult()
+ 7 APPPATH\ThirdParty\codeigniter4-datatables\src\DataTable.php(176): Hermawan\DataTables\DataTableQuery->getDataResult()
+ 8 APPPATH\Controllers\Tables.php(162): Hermawan\DataTables\DataTable->toJson()
+ 9 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Tables->index()
+10 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tables))
+11 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()

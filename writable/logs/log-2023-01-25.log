@@ -1,0 +1,909 @@
+CRITICAL - 2023-01-25 00:04:58 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:05:21 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:05:21 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:06:09 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:06:09 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:06:20 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:06:20 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:07:02 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:07:02 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:07:30 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:07:31 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:08:15 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:08:15 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:08:51 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:08:51 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:09:49 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:09:49 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:09:59 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 00:13:08 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:02:56 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:03:11 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:03:12 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:05:27 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:05:27 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:06:07 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 02:06:07 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:28:12 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:28:32 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:28:35 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:28:35 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:29:08 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:29:11 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'plan-bg.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:29:11 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'images', 'night.jpg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:29:46 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:30:18 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:30:18 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:30:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:30:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:22 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:22 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:34 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'js', 'bootstrap.bundle.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:34 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:42 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:42 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:42 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:34:43 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'js', 'bootstrap.bundle.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:35:53 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:35:53 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:35:54 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:35:54 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'js', 'bootstrap.bundle.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:37:01 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:37:17 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:37:17 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:37:25 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:37:25 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:39:57 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:39:57 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:40:36 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:40:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:40:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'js', 'bootstrap.bundle.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:40:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:41:00 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:41:00 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:43:41 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:43:42 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:45:13 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:45:13 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:45:51 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:45:51 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:46:13 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:46:13 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:49:45 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:49:47 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:50:34 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:50:52 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:50:52 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:51:10 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 06:51:11 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:08:16 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:09:50 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:10:07 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:10:38 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:10:51 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:15:39 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:16:10 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:17:28 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:17:28 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:20:01 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 09:20:01 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:00:17 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:04:48 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:13:59 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:14:30 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:14:31 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:14:56 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:14:56 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 11:54:43 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 12:15:03 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'js', 'bootstrap.bundle.min.js.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 12:15:05 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'bootstrap', 'css', 'bootstrap.min.css.map')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 12:18:28 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-25 15:56:28 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'peak-light', 'vendors', 'social-button', 'bootstrap-social.css')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,558 @@
+CRITICAL - 2023-01-23 13:49:09 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'berry-mobile', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:49:09 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'berry-mobile', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:49:12 --> Invalid file: template/financier/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/service-worker.js')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/service-worker.js', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/service-worker.js', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('service-worker.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:49:42 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:50:00 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:50:19 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:50:38 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:51:57 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'js', 'jquery-3.2.1.slim.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:02 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:06 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:10 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:12 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.svg')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:14 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:14 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:14 --> Invalid file: template/financier/__service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/__service-worker.js')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/__service-worker.js', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/__service-worker.js', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:14 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:16 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:16 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:16 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:18 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:19 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:19 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:44 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'js', 'jquery-3.2.1.slim.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:46 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:48 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'js', 'jquery-3.2.1.slim.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:53 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'js', 'jquery-3.2.1.slim.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:52:54 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:04 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:04 --> Invalid file: template/financier/__service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/__service-worker.js')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/__service-worker.js', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/__service-worker.js', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:05 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:06 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:07 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:08 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:09 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:19 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:25 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:33 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:36 --> Invalid file: template/financier/__service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/__service-worker.js')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/__service-worker.js', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/__service-worker.js', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:41 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:53:50 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:54:09 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:54:47 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:54:49 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:54:51 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:32 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:39 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:40 --> Invalid file: template/financier/__service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/__service-worker.js')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/__service-worker.js', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/__service-worker.js', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:41 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:41 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:43 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:44 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:45 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:55 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:55:59 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:59:14 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:59:32 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'javascript', 'pdf.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:59:47 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'berry-lite', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:59:47 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'berry-lite', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 13:59:49 --> Invalid file: template/financier/service-worker.js
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/service-worker.js')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/service-worker.js', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/service-worker.js', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('service-worker.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 14:05:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'berry-lite', 'datatable', 'js', 'dataTables.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 14:05:37 --> Invalid file: template/financier/themes.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/themes.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/themes', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/themes', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/themes', 'berry-lite', 'datatable', 'js', 'scroller.bootstrap5.min.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-23 23:16:45 --> Invalid file: template/financier/assets.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/financier/assets.php')
+ 2 SYSTEMPATH/Common.php(1142): CodeIgniter\View\View->render('template/financier/assets', [], true)
+ 3 APPPATH/Controllers/Pages.php(54): view('template/financier/assets', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH/assets', 'vendor', 'particles.js', 'particles.js')
+ 5 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(71): CodeIgniter\CodeIgniter->run()

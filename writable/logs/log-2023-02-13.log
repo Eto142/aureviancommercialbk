@@ -1,0 +1,2196 @@
+CRITICAL - 2023-02-13 20:55:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'js', 'jquery-3.2.1.slim.min.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:55:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 20:56:13 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 20:56:13 --> 
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:56:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 20:57:34 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 20:57:34 --> 
+CRITICAL - 2023-02-13 20:57:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:57:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 20:58:41 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:46 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:46 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:46 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:05:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:20:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 21:21:20 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 21:21:20 --> 
+CRITICAL - 2023-02-13 21:21:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:22 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:22 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:22 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:22 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:22 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:22 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:35 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:21:36 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:06 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:06 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:06 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 21:23:01 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 21:23:01 --> 
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:02 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:03 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:23:14 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:57 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 21:55:58 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:18 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:18 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:18 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:42:43 --> Undefined variable: tx_bank
+in APPPATH\Controllers\User.php on line 421.
+ 1 APPPATH\Controllers\User.php(421): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: tx_bank', 'APPPATH\\Controllers\\User.php', 421, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->transfer()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:44:58 --> Undefined index: date
+in APPPATH\Controllers\User.php on line 411.
+ 1 APPPATH\Controllers\User.php(411): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: date', 'APPPATH\\Controllers\\User.php', 411, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->transfer()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 22:46:09 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 22:46:09 --> 
+CRITICAL - 2023-02-13 22:46:09 --> Undefined index: ref
+in APPPATH\Controllers\User.php on line 758.
+ 1 APPPATH\Controllers\User.php(758): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: ref', 'APPPATH\\Controllers\\User.php', 758, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:46:42 --> Undefined variable: page
+in APPPATH\Views\theme\finapp-light\header.php on line 9.
+ 1 APPPATH\Views\theme\finapp-light\header.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: page', 'APPPATH\\Views\\theme\\finapp-light\\header.php', 9, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/header', [], true)
+ 5 APPPATH\Controllers\User.php(761): view('theme/finapp-light/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:47:39 --> Undefined variable: company_name
+in APPPATH\Views\theme\finapp-light\header.php on line 9.
+ 1 APPPATH\Views\theme\finapp-light\header.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: company_name', 'APPPATH\\Views\\theme\\finapp-light\\header.php', 9, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\header.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/header', [], true)
+ 5 APPPATH\Controllers\User.php(761): view('theme/finapp-light/header', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:49:18 --> Undefined variable: themeColor
+in APPPATH\Views\theme\finapp-light\success.php on line 65.
+ 1 APPPATH\Views\theme\finapp-light\success.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: themeColor', 'APPPATH\\Views\\theme\\finapp-light\\success.php', 65, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\success.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/success', [], true)
+ 5 APPPATH\Controllers\User.php(762): view('theme/finapp-light/success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:49:57 --> Undefined variable: logo
+in APPPATH\Views\theme\finapp-light\success.php on line 114.
+ 1 APPPATH\Views\theme\finapp-light\success.php(114): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: logo', 'APPPATH\\Views\\theme\\finapp-light\\success.php', 114, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\success.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/success', [], true)
+ 5 APPPATH\Controllers\User.php(762): view('theme/finapp-light/success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:50:44 --> Undefined variable: uploadFolder
+in APPPATH\Views\theme\finapp-light\success.php on line 219.
+ 1 APPPATH\Views\theme\finapp-light\success.php(219): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: uploadFolder', 'APPPATH\\Views\\theme\\finapp-light\\success.php', 219, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\success.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/success', [], true)
+ 5 APPPATH\Controllers\User.php(762): view('theme/finapp-light/success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:19 --> Undefined variable: Ref
+in APPPATH\Views\theme\finapp-light\success.php on line 459.
+ 1 APPPATH\Views\theme\finapp-light\success.php(459): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: Ref', 'APPPATH\\Views\\theme\\finapp-light\\success.php', 459, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\theme\\finapp-light\\success.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('theme/finapp-light/success', [], true)
+ 5 APPPATH\Controllers\User.php(762): view('theme/finapp-light/success', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->success()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:49 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:49 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:51:49 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:54:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:54:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:54:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:54:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:54:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:54:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:31 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:31 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:31 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:31 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:31 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:56:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:57:26 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 22:57:52 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 22:57:52 --> 
+ERROR - 2023-02-13 22:58:03 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 22:58:03 --> Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+CRITICAL - 2023-02-13 22:58:04 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:58:04 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:58:04 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:58:04 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:58:04 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 22:58:04 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:37 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:37 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:37 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:37 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:37 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:37 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:02:40 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 23:03:07 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 23:03:07 --> 
+ERROR - 2023-02-13 23:03:18 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 23:03:18 --> Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+CRITICAL - 2023-02-13 23:03:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:03:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:03:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:03:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:03:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:03:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:05:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:05:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:05:48 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:05:49 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:05:49 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:05:49 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:06:00 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 23:07:09 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 23:07:09 --> 
+CRITICAL - 2023-02-13 23:07:10 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:10 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:10 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:10 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:10 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:27 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:07:28 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 23:07:45 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 23:07:45 --> 
+CRITICAL - 2023-02-13 23:07:45 --> Undefined index: swift_code
+in APPPATH\Controllers\User.php on line 691.
+ 1 APPPATH\Controllers\User.php(691): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: swift_code', 'APPPATH\\Controllers\\User.php', 691, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\User->verify()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 23:08:58 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 23:08:58 --> 
+CRITICAL - 2023-02-13 23:08:59 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:08:59 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:08:59 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:08:59 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:08:59 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:08:59 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:13:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:13:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:13:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:13:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:13:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:13:21 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:19 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:29 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:14:30 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:47 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:50 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:50 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:51 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:51 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:51 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:17:51 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-02-13 23:18:16 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-02-13 23:18:16 --> 
+CRITICAL - 2023-02-13 23:18:17 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:18:17 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:18:17 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:18:17 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:18:17 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:18:18 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:20:38 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:20:38 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:20:38 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:20:38 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:20:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:20:39 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:07 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:08 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:11 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:15 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:33 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:33 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:33 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('__service-worker.js')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff2')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.woff')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-solid-900.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-brands-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-13 23:22:34 --> Class 'App\Models\PackagesModel' not found
+in APPPATH\Controllers\Pages.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('FCPATH\\themes', 'finapp-light', 'webfonts', 'fa-regular-400.ttf')
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(71): CodeIgniter\CodeIgniter->run()

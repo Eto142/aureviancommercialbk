@@ -1,0 +1,886 @@
+CRITICAL - 2022-09-16 12:01:10 --> Cannot redeclare App\Controllers\Pages::view()
+in APPPATH\Controllers\Pages.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-09-16 12:15:09 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:15:12 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:26:02 --> Invalid file: pages/adminPanel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/adminPanel.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/adminPanel', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('pages/adminPanel')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('adminPanel')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:26:08 --> Invalid file: pages/adminPanel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/adminPanel.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/adminPanel', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('pages/adminPanel')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('adminPanel')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:26:25 --> Invalid file: pages/adminPanel.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/adminPanel.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/adminPanel', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('pages/adminPanel')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('adminPanel')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-16 12:26:45 --> Invalid file: pages/Admin.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/Admin.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/Admin', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('pages/Admin')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('Admin')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-16 12:26:57 --> Invalid file: pages/Pages.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/Pages.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/Pages', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('pages/Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('Pages')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-16 12:33:30 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:33:34 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:34:10 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(19): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:38:00 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:44:48 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(19): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->admin()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:45:17 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(19): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->adminindex()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:54:29 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(19): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->adminindex()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:54:30 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(19): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->adminindex()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:54:49 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(25): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->adminindex()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:54:50 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(25): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->adminindex()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:55:01 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:55:03 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:55:17 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 12:55:17 --> Invalid file: welcome_message.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcome_message', [], true)
+ 3 APPPATH\Controllers\Pages.php(10): view('welcome_message')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:08:02 --> Invalid file: templates/footer.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/footer.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/footer', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('templates/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:10:02 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:16:31 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:16:32 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Home.php(11): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:18:39 --> Invalid file: templates/footer.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/footer.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/footer', [], true)
+ 3 APPPATH\Controllers\Home.php(10): view('templates/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:21:27 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(12): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:21:58 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(13): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:22:11 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(22): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 13:22:12 --> Invalid file: templates/header.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('templates/header', [], true)
+ 3 APPPATH\Controllers\Pages.php(22): view('templates/header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 13:49:48 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(12): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(12): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 13:49:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`
+WHERE `id` = :id:', [...], false)
+ 3 APPPATH\Controllers\Home.php(12): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 13:50:38 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere(Array)
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 13:50:38 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`
+WHERE `id` = :id:', [...], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere([...])
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 13:51:54 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 13:51:54 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`', [], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 13:52:09 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 13:52:09 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`', [], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 15:12:08 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Views\pages\header.php on line 8.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 4 APPPATH\Controllers\Home.php(16): view('pages/header', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-16 15:12:30 --> Object of class CodeIgniter\Database\MySQLi\Builder could not be converted to string
+in APPPATH\Views\pages\header.php on line 8.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('pages/header', [], true)
+ 4 APPPATH\Controllers\Home.php(16): view('pages/header', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:17:04 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:17:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`', [], false)
+ 3 APPPATH\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:17:48 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:17:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`', [], false)
+ 3 APPPATH\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:18:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:18:07 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`', [], false)
+ 3 APPPATH\Controllers\Home.php(14): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:27:00 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(10): CodeIgniter\Database\BaseConnection->query('SELECT * FROM c...')
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\app\Controllers\Home.php(10): CodeIgniter\Database\BaseConnection->query('SELECT * FROM c...')
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-09-16 15:27:00 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(10): CodeIgniter\Database\BaseConnection->query('SELECT * FROM cy_settings')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:27:32 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM c...')
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\app\Controllers\Home.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM c...')
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-09-16 15:27:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(12): CodeIgniter\Database\BaseConnection->query('SELECT * FROM cy_settings')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:30:13 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT * FROM c...')
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT * FROM c...')
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2022-09-16 15:30:13 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseConnection->query('SELECT * FROM cy_settings')
+ 3 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:34:45 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:34:45 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_users`', [], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:35:06 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:35:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_users`', [], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:37:20 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:37:20 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`', [], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:39:37 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere(Array, 1, 1)
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere(Array, 1, 1)
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:39:37 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`
+WHERE `id` = :id:
+ LIMIT 1, 1', [...], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere([...], 1, 1)
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-09-16 15:39:38 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'codeigniter'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:171
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(171): mysqli->real_connect('localhost', 'codeigniter', 'codeigniter', 'codeigniter', 3306, '', 0)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere(Array, 1, 1)
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#10 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:215
+Stack trace:
+#0 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\ci4\app\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere(Array, 1, 1)
+#4 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(907): App\Controllers\Home->index()
+#5 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\ci4\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\ci4\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2022-09-16 15:39:38 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 418.
+ 1 SYSTEMPATH\Database\BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1718): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cy_settings`
+WHERE `id` = :id:
+ LIMIT 1, 1', [...], false)
+ 3 APPPATH\Controllers\Home.php(11): CodeIgniter\Database\BaseBuilder->getWhere([...], 1, 1)
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
